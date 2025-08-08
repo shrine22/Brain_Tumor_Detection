@@ -1,0 +1,4 @@
+brain_tumor_cnn_model.h5
+__pycache__/
+.venv/
+.env
